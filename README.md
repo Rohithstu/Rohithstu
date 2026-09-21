@@ -35,25 +35,32 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Kamidi Rohith Reddy
-role: AI Developer & Full-Stack Engineer
-education: B.Tech in CSE (Data Science) @ GRIET, Hyderabad (May 2027)
-gpa: 7.7 / 10.0
-focus: Generative AI, RAG Knowledge Systems, Scalable Web Engineering
-status: Open to Software Engineering & AI/ML Internships
+<table width="100%">
+<tr>
+<td>
+
+```
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ 👤 Kamidi Rohith Reddy                                                      │
+│ 🎓 B.Tech in CSE (Data Science) @ GRIET, Hyderabad (Class of 2027)          │
+│ 📊 Academic Score: 7.7 / 10.0 GPA                                           │
+│ 💼 Ex-Java Intern @ NetScore Technologies • AI for Sustainability Intern    │
+│ 📍 Hyderabad, Telangana, India                                              │
+│ 🚀 Open for: AI/ML Engineering & Software Development Internships          │
+╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
-I'm a pre-final year **Data Science undergraduate at GRIET** passionate about engineering intelligent software using **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern full-stack architectures**.
+I am a pre-final year **Computer Science (Data Science)** undergraduate at **GRIET**, specializing in bridging **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Full-Stack Web Engineering** to solve complex, real-world business and environmental challenges.
 
-I love translating complex AI and domain challenges into clean, accessible, and high-impact software solutions.
+#### 🌟 What I Bring to the Table:
+- ⚡ **Applied AI & GenAI**: Crafting RAG knowledge bases, semantic search indices, and LLM-powered autonomous assistants.
+- 🌐 **Modern Full-Stack Development**: Building end-to-end web platforms using **React 18**, **Node.js/Express**, **Flask**, and **Tailwind CSS**.
+- 🛡️ **Cyber Threat Intelligence**: Engineering multi-layer ML classification pipelines for malicious URL and anomaly detection.
+- 🧩 **Algorithmic Problem Solving**: **300+ problems solved** across LeetCode & GeeksforGeeks with strong fundamentals in Data Structures & System Design.
 
-#### 💡 Primary Interests:
-- 🤖 **Large Language Models (LLMs) & Generative AI**
-- 🧠 **Retrieval-Augmented Generation (RAG) & Vector Search**
-- 🌐 **Full-Stack Web Engineering & Microservices**
-- 🛡️ **Cybersecurity Threat Detection & ML Classification**
-- ⚡ **AI Workflow Orchestration & Agentic Systems**
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,17 +71,17 @@ I love translating complex AI and domain challenges into clean, accessible, and 
 <td width="50%" valign="top">
 
 #### 🤖 Applied AI & LLM Systems
-- **Retrieval-Augmented Generation (RAG)** pipelines with semantic chunking
-- **Vector Search & Indexing** via FAISS and FastEmbed embeddings
-- **Enterprise LLMs**: IBM watsonx.ai (Granite 3.0) & Google Gemini APIs
-- **Cybersecurity ML**: Multi-layer heuristic & ensemble threat classification
+- **Retrieval-Augmented Generation (RAG)** with document chunking & FAISS
+- **Semantic Vector Embeddings** via FastEmbed and Sentence Transformers
+- **Large Language Models**: Google Gemini API & Open Foundation Models
+- **Machine Learning Classification**: Heuristic feature extraction & ML ensembles
 
 </td>
 <td width="50%" valign="top">
 
 #### 🌐 Scalable Web & Backend Engineering
-- **Modern Frontend**: React 18, responsive UI/UX & Tailwind CSS
-- **RESTful APIs**: Node.js, Express.js, Flask backend microservices
+- **Modern Frontend**: React 18, responsive UI/UX, and Tailwind CSS
+- **RESTful APIs**: Node.js, Express.js, and Flask backend microservices
 - **Database Architecture**: MongoDB NoSQL & relational MySQL modeling
 - **Enterprise POS Systems**: Transactional data management & Java workflows
 
@@ -91,7 +98,7 @@ I love translating complex AI and domain challenges into clean, accessible, and 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / Machine Learning** | ![RAG](https://img.shields.io/badge/RAG-Pipelines-8A3FFC?style=flat-square) ![IBM watsonx.ai](https://img.shields.io/badge/IBM%20watsonx.ai-Granite%203.0-1261FE?style=flat-square&logo=ibm&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-API-4285F4?style=flat-square&logo=google&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-FF6F00?style=flat-square) ![FastEmbed](https://img.shields.io/badge/FastEmbed-Embeddings-059669?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **AI / Machine Learning** | ![RAG](https://img.shields.io/badge/RAG-Pipelines-8A3FFC?style=flat-square) ![LLMs](https://img.shields.io/badge/Generative%20AI-LLMs-1261FE?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-API-4285F4?style=flat-square&logo=google&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-FF6F00?style=flat-square) ![FastEmbed](https://img.shields.io/badge/FastEmbed-Embeddings-059669?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **Backend & Web** | ![React](https://img.shields.io/badge/React.js-18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
@@ -104,7 +111,7 @@ I love translating complex AI and domain challenges into clean, accessible, and 
 
 <div align="center">
 
-`Large Language Models` • `Retrieval-Augmented Generation (RAG)` • `Semantic Vector Search` • `IBM Granite 3.0` • `Google Gemini LLM` • `FAISS Vector Database` • `FastEmbed Embeddings` • `Prompt Engineering` • `Threat Intelligence ML` • `AI Workflow Automation`
+`Large Language Models` • `Retrieval-Augmented Generation (RAG)` • `Semantic Vector Search` • `Google Gemini LLM` • `FAISS Vector Database` • `FastEmbed Embeddings` • `Prompt Engineering` • `Threat Intelligence ML` • `AI Workflow Automation`
 
 </div>
 
@@ -116,12 +123,12 @@ I love translating complex AI and domain challenges into clean, accessible, and 
 > *AI-powered B2B circular trading platform & Scope 3 carbon accounting engine built for the **1M1B AI for Sustainability Virtual Internship** in collaboration with **IBM SkillsBuild & AICTE**.*
 
 ```
-├── 🤖 Real IBM watsonx.ai Integration with IBM Granite 3.0 foundation models
+├── 🤖 Real Generative AI Circular Copilot for scrap purity and buyer-seller matchmaking
 ├── 📊 Automated Scope 3 GHG Avoidance engine compliant with ISO 14044 & EPA WARM
 ├── 🔬 Real-time AI chemical scrap purity assays and downstream recycler matchmaking
 └── 🎨 Enterprise dark-mode marketplace with Design Thinking SDG 12 Hub
 ```
-- **Tech Stack**: `React 18` • `Node.js` • `Express.js` • `IBM watsonx.ai (Granite 3.0)` • `Tailwind CSS` • `MongoDB`
+- **Tech Stack**: `React 18` • `Node.js` • `Express.js` • `Generative AI` • `Tailwind CSS` • `MongoDB`
 
 ---
 
@@ -163,7 +170,7 @@ I love translating complex AI and domain challenges into clean, accessible, and 
 │ 🌱 AI for Sustainability Intern — 1M1B, IBM SkillsBuild & AICTE                    │
 │    Sep 2026 | Virtual                                                             │
 │    • Built EcoTrade 2.0 targeting UN SDG 12 (Target 12.5) & SDG 13               │
-│    • Deployed IBM Granite AI foundation models for automated purity assays        │
+│    • Deployed Generative AI models for automated purity assays and carbon audits  │
 └───────────────────────────────────────────────────────────────────────────────────┘
 ```
 
