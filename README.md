@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rohithstu/Rohithstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kamidi Rohith Reddy
+### **Data Science Undergraduate • AI Developer • Full-Stack Engineer**
 
-Here are some ideas to get you started:
+Building intelligent software using **Large Language Models (LLMs), RAG systems, Agentic AI, and scalable Web architectures.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamidi-rohith-reddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohithstu)
+[![Email](https://img.shields.io/badge/Email-reddykrohith7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddykrohith7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+
+<br />
+
+---
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm a pre-final year **Computer Science & Engineering (Data Science)** undergraduate at **Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)**, Hyderabad. I am deeply passionate about building real-world AI-driven software, combining **Retrieval-Augmented Generation (RAG)**, **Generative AI (IBM Granite, Google Gemini)**, and **Full-Stack Web Engineering**.
+
+- 🔭 **Currently Building**: Scalable AI applications, multi-modal RAG knowledge engines, and circular economy intelligence platforms.
+- 💼 **Experience**: Java Engineering Intern at **NetScore Technologies** & **1M1B AI for Sustainability Virtual Intern (IBM SkillsBuild & AICTE)**.
+- 💡 **Primary Interests**: Large Language Models (LLMs), Agentic AI, Full-Stack Development, Cyber Threat Intelligence, and Cloud Computing.
+- 🧩 **Problem Solving**: Solved **300+ DSA problems** across LeetCode & GeeksforGeeks.
+
+---
+
+## 🎯 Engineering Focus
+
