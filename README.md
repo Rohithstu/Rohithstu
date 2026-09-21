@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Email-reddykrohith7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/kRohithReddy_866/">
   <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32"/>
 </a>
 &nbsp;
@@ -203,7 +203,7 @@ I am a pre-final year **Data Science undergraduate at GRIET**, specializing in b
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rohithstu?theme=dark&font=Plus%20Jakarta%20Sans&ext=activity)](https://leetcode.com)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kRohithReddy_866?theme=dark&font=Plus%20Jakarta%20Sans&ext=activity)](https://leetcode.com/u/kRohithReddy_866/)
 
 </div>
 
